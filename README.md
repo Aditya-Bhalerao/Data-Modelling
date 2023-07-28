@@ -22,7 +22,7 @@ The dataset used in this project was obtained from the NYC TLC website https://w
 
 For detailed information about the columns and their meanings in the dataset, please refer to the `data_dictionary.pdf` file located in the `data` folder. The file is obtained from NYC TLC website.
 
-The data model diagram visually represents the dimensional model created for this project. You can find the diagram in the file `Data Model.png` in the main folder.
+The data model diagram visually represents the dimensional model created for this project. You can find the diagram in the file `Data-Model.png` in the main folder.
 
 ## Dimensional Modeling
 
