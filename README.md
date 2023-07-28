@@ -6,7 +6,7 @@ This repository contains the work I performed on the NYC Taxi and Limousine Comm
 
 1. [Introduction](#introduction)
 2. [Data Source](#data-source)
-2. [Data Dictionary](#data-dictionary)
+2. [Data Dictionary and Data Model](#data-dictionary-and-data-model)
 3. [Dimensional Modeling](#dimensional-modeling)
 4. [Future Improvements](#future-improvements)
 
@@ -18,9 +18,11 @@ In this project, I worked with the NYC Taxi and Limousine Commission data, which
 
 The dataset used in this project was obtained from the NYC TLC website https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page, and it covers a time period from 2009 to 2023. The dataset includes various dimensions such as date, time, location, and taxi-related attributes, enabling us to perform comprehensive analyses.
 
-## Data Dictionary
+## Data Dictionary and Data Model
 
 For detailed information about the columns and their meanings in the dataset, please refer to the `data_dictionary.pdf` file located in the `data` folder. The file is obtained from NYC TLC website.
+
+The data model diagram visually represents the dimensional model created for this project. You can find the diagram in the file `Data Model.png` in the main folder.
 
 ## Dimensional Modeling
 
